@@ -1,11 +1,11 @@
 /*
-  Code by: www.munphurid.com
+  Code by: 
   M.Hashir
 
   This is a code that blinks LED on pin 13 of Arduino
 
   Hardware:
-  -Arduino
+  -Arduino (Purchased from www.munphurid.com)
 
 */
 
